@@ -1,1 +1,1 @@
-# nrf-ble_dev
+# nrf-ble-dev
